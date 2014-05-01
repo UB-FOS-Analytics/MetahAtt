@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<operatorHelp lang="en_EN">
+   <operator>
+      <key>random_search_attribute_selection</key>
+      <name>Random Search</name>
+      <synopsis>Random search for attribute selection</synopsis>
+      <help>Randomly selects attributes for attribute selection process</help>
+   </operator>
+   <operator>
+      <key>simulated_annealing_attribute_selection</key>
+      <name>Simulated Annealing</name>
+      <synopsis>Simulated annealing for attribute selection</synopsis>
+      <help>Simulated annealing is a generic probabilistic metaheuristic for the global optimization problem of locating a good approximation to the global optimum</help>
+   </operator> 
+   <operator>
+      <key>vns_param_opt</key>
+      <name>VNS (Perturber)</name>
+      <synopsis>Variable Neighbourhood Search for attribute selection</synopsis>
+      <help>Variable Neighborhood Search (VNS) proposed by (Mladenovic, Hansen, 1997) is a metaheuristic method for solving a set of combinatorial optimization and global optimization problems</help>
+   </operator>
+   <operator>
+      <key>hill_climbing_attribute_selection</key>
+      <name>Hill Climbing</name>
+      <synopsis>Hill climbing for attribute selection</synopsis>
+      <help>Hill climbing is an iterative algorithm that starts with an arbitrary solution to a problem, then attempts to find a better solution by incrementally changing a single element of the solution</help>
+   </operator> 
+   <operator>
+      <key>vns_attribute_selection</key>
+      <name>VNS (Perturber)</name>
+      <synopsis>Variable Neighbourhood Search for attribute selection</synopsis>
+      <help>Variable Neighborhood Search (VNS) proposed by (Mladenovic, Hansen, 1997) is a metaheuristic method for solving a set of combinatorial optimization and global optimization problems</help>
+   </operator>
+   <operator>
+      <key>vnssa_attribute_selection</key>
+      <name>VNS (Simulated Annealing)</name>
+      <synopsis>Variable Neighbourhood Search for attribute selection</synopsis>
+      <help>Variable Neighborhood Search (VNS) proposed by (Mladenovic, Hansen, 1997) is a metaheuristic method for solving a set of combinatorial optimization and global optimization problems</help>
+   </operator>
+   <operator>
+      <key>vnshc_attribute_selection</key>
+      <name>VNS (Hill Climbing)</name>
+      <synopsis>Variable Neighbourhood Search for attribute selection</synopsis>
+      <help>Variable Neighborhood Search (VNS) proposed by (Mladenovic, Hansen, 1997) is a metaheuristic method for solving a set of combinatorial optimization and global optimization problems</help>
+   </operator> 
+   <operator>
+      <key>harmony_search_attribute_selection</key>
+      <name>Harmony Search</name>
+      <synopsis>Harmony search for attribute selection</synopsis>
+      <help>Harmony search is a phenomenon-mimicking algorithm inspired by the improvisation process of musicians proposed by Zong Woo Geem in 2001</help>
+   </operator>
+   <operator>
+      <key>ils_attribute_selection</key>
+      <name>Iterated Local Search</name>
+      <synopsis>Iterated Local Search for attribute selection</synopsis>
+      <help>Iterated Local Search is a modification of local search or hill climbing methods for solving mostly discrete optimization problems</help>
+   </operator>
+   <operator>
+      <key>random_search_attribute_weighting</key>
+      <name>Random Search</name>
+      <synopsis>Random search for attribute selection</synopsis>
+      <help>Randomly selects attributes for attribute weighting process</help>
+   </operator>
+   <operator>
+      <key>simulated_annealing_attribute_weighting</key>
+      <name>Simulated Annealing</name>
+      <synopsis>Simulated annealing for attribute weighting</synopsis>
+      <help>Simulated annealing is a generic probabilistic metaheuristic for the global optimization problem of locating a good approximation to the global optimum</help>
+   </operator> 
+   <operator>
+      <key>hill_climbing_attribute_weighting</key>
+      <name>Hill Climbing</name>
+      <synopsis>Hill climbing for attribute weighting</synopsis>
+      <help>Hill climbing is an iterative algorithm that starts with an arbitrary solution to a problem, then attempts to find a better solution by incrementally changing a single element of the solution</help>
+   </operator>
+   <operator>
+      <key>vns_attribute_weighting</key>
+      <name>VNS (Perturber)</name>
+      <synopsis>Variable Neighbourhood Search for attribute weighting</synopsis>
+      <help>Variable Neighborhood Search (VNS) proposed by (Mladenovic, Hansen, 1997) is a metaheuristic method for solving a set of combinatorial optimization and global optimization problems</help>
+   </operator>
+   <operator>
+      <key>vnssa_attribute_weighting</key>
+      <name>VNS (Simulated Annealing)</name>
+      <synopsis>Variable Neighbourhood Search for attribute weighting</synopsis>
+      <help>Variable Neighborhood Search (VNS) proposed by (Mladenovic, Hansen, 1997) is a metaheuristic method for solving a set of combinatorial optimization and global optimization problems</help>
+   </operator> 
+   <operator>
+      <key>vnshc_attribute_weighting</key>
+      <name>VNS (Hill Climbing)</name>
+      <synopsis>Variable Neighbourhood Search for attribute weighting</synopsis>
+      <help>Variable Neighborhood Search (VNS) proposed by (Mladenovic, Hansen, 1997) is a metaheuristic method for solving a set of combinatorial optimization and global optimization problems</help>
+   </operator>
+   <operator>
+      <key>harmony_search_attribute_weighting</key>
+      <name>Harmony Search</name>
+      <synopsis>Harmony search for attribute weighting</synopsis>
+      <help>Harmony search is a phenomenon-mimicking algorithm inspired by the improvisation process of musicians proposed by Zong Woo Geem in 2001</help>
+   </operator>
+   <operator>
+      <key>ils_attribute_weighting</key>
+      <name>Iterated Local Search</name>
+      <synopsis>Iterated Local Search for attribute weighting</synopsis>
+      <help>Iterated Local Search is a modification of local search or hill climbing methods for solving mostly discrete optimization problems</help>
+   </operator>
+   <operator>
+      <key>random_search_param_opt</key>
+      <name>Random Parameter Search</name>
+      <synopsis>Random search for parameter optimization</synopsis>
+      <help>Randomly selects parameters of algorithm</help>
+   </operator>
+   <operator>
+      <key>simulated_annealing_param_opt</key>
+      <name>Simulated Annealing</name>
+      <synopsis>Simulated annealing for parameter optimization</synopsis>
+      <help>Simulated annealing is a generic probabilistic metaheuristic for the global optimization problem of locating a good approximation to the global optimum</help>
+   </operator>
+   <operator>
+      <key>hill_climbing_param_opt</key>
+      <name>Hill Climbing</name>
+      <synopsis>Hill climbing for parameter optimization</synopsis>
+      <help>Hill climbing is an iterative algorithm that starts with an arbitrary solution to a problem, then attempts to find a better solution by incrementally changing a single element of the solution</help>
+   </operator> 
+   <operator>
+      <key>vns_param_opt</key>
+      <name>VNS (Perturber)</name>
+      <synopsis>Variable Neighbourhood Search for parameter optimization</synopsis>
+      <help>Variable Neighborhood Search (VNS) proposed by (Mladenovic, Hansen, 1997) is a metaheuristic method for solving a set of combinatorial optimization and global optimization problems</help>
+   </operator>
+   <operator>
+      <key>vnssa_param_opt</key>
+      <name>VNS (Simulated Annealing)</name>
+      <synopsis>Variable Neighbourhood Search for parameter optimization</synopsis>
+      <help>Variable Neighborhood Search (VNS) proposed by (Mladenovic, Hansen, 1997) is a metaheuristic method for solving a set of combinatorial optimization and global optimization problems</help>
+   </operator> 
+   <operator>
+      <key>vnshc_param_opt</key>
+      <name>VNS (Hill Climbing)</name>
+      <synopsis>Variable Neighbourhood Search for parameter optimization</synopsis>
+      <help>Variable Neighborhood Search (VNS) proposed by (Mladenovic, Hansen, 1997) is a metaheuristic method for solving a set of combinatorial optimization and global optimization problems</help>
+   </operator>
+   <operator>
+      <key>harmony_search_param_opt</key>
+      <name>Harmony Search</name>
+      <synopsis>Harmony search for parameter optimization</synopsis>
+      <help>Harmony search is a phenomenon-mimicking algorithm inspired by the improvisation process of musicians proposed by Zong Woo Geem in 2001</help>
+   </operator>
+   <operator>
+      <key>ils_param_opt</key>
+      <name>Iterated Local Search</name>
+      <synopsis>Iterated Local Search for parameter optimization</synopsis>
+      <help>Iterated Local Search is a modification of local search or hill climbing methods for solving mostly discrete optimization problems</help>
+   </operator>
+</operatorHelp>

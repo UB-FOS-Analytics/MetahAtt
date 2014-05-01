@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.0
+Created-By: (DIK group)
+Implementation-Vendor: WhiBo group, University of Belgrade
+Implementation-Title: MetahAtt
+Implementation-URL: http://whibo.fon.bg.ac.rs
+Implementation-Version: 0.2
+RapidMiner-Version: 5.0
+RapidMiner-Type: RapidMiner_Extension
+Extension-ID: rmx_metahatt
+Namespace: whibo
+Initialization-Class: rs.fon.InitMetahAtt
+Operator-Descriptor: /META-INF/operators.xml 
+
+
+
